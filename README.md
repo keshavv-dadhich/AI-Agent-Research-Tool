@@ -2,7 +2,7 @@
 
 A powerful agentic research tool that uses LangGraph's multi-agent architecture and Tavily's search capabilities to perform deep web research and generate comprehensive answers.
 
-![AI Research Agent System](research-agent-screenshot.png) research system with:
+![AI Research Agent System](research-agent-screenshot.png) 
 1. **Research Agent** - Uses Tavily to perform deep web searches and data collection
 2. **Answer Drafting Agent** - Synthesizes findings into coherent responses
 
